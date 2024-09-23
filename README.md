@@ -1,1 +1,1 @@
-# gardient_map_hnts
+# gradient_map_hnts
