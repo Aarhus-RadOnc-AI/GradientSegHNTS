@@ -17,9 +17,7 @@ This repository provides a comprehensive solution to the HNTS-MRG 2024 challenge
 
 
 ## nnUNet Customize: Enhanced UMamba for Head and Neck Tumor Segmentation
-
-### Overview
-This project presents a customized version of nnUNet, optimized for head and neck tumor segmentation (HNTS). We enhance the original UMamba architecture by introducing significant optimizations to improve computational efficiency and segmentation accuracy.
+Folder ```nnUNet``` presents a customized version of nnUNet, optimized for head and neck tumor segmentation (HNTS). We enhance the original UMamba architecture by introducing significant optimizations to improve computational efficiency and segmentation accuracy.
 
 ### Key Modifications
 - **Removal of the Mamba Layer and Residual Blocks**: We optimize UMamba by removing the Mamba layer in the first block and the residual blocks in the decoder, significantly enhancing computational efficiency while preserving the model's ability to capture long-range dependencies.
