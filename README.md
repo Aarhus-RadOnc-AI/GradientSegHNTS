@@ -5,7 +5,7 @@ This repository contains the code for two tasks from the HNTS-MRG 2024 challenge
 In Task 1, we developed a model for segmenting pre-RT GTVp and GTVn using a combination of nnU-Net ResEnc M planner with UMamba. Below are some key contributions of this task:
 
 - **Optimization of UMamba**: We removed the Mamba layer in the first block and the residual blocks in the decoder, significantly enhancing computational efficiency while maintaining the ability to capture long-range dependencies.
-- **Improved Accuracy**: By combining UMamba’s long-range dependency modeling with nnU-Net ResEnc’s enhanced residual encoding, we improved the accuracy of GTV delineation in the complex anatomy of head and neck cancer.
+- **Improved Residual encoder**: By combining UMamba’s long-range dependency modeling with nnU-Net ResEnc’s enhanced residual encoding, we improved the accuracy of GTV delineation in the complex anatomy of head and neck cancer.
 
 ## Task 2: Mid-RT Segmentation
 For Task 2, we tackled the challenge of mid-RT segmentation. Here are our key contributions:
