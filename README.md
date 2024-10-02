@@ -1,4 +1,5 @@
-# GradientSegHNTS: Gradient Map-Assisted Head and Neck Tumor Segmentation: A Pre-RT to Mid-RT Approach in MRI-Guided Radiotherapy 
+# GradientSegHNTS: 
+## Gradient Map-Assisted Head and Neck Tumor Segmentation: A Pre-RT to Mid-RT Approach in MRI-Guided Radiotherapy 
 This repository contains the code for the second task from the HNTS-MRG 2024 challenge, focusing on the segmentation of Gross Tumor Volume in the primary (GTVp) and nodal (GTVn) regions for head and neck cancer. 
 ![flow_chart](flowchart.png)
 ## Task 2: Mid-RT Segmentation
