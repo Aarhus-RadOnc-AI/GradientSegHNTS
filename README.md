@@ -2,6 +2,12 @@
 ## Gradient Map-Assisted Head and Neck Tumor Segmentation: A Pre-RT to Mid-RT Approach in MRI-Guided Radiotherapy 
 This repository contains the code for Team DCPT Stine's group, developed for the second task of the [HNTS-MRG 2024 challenge](https://hntsmrg24.grand-challenge.org/), focusing on the segmentation of Gross Tumor Volume in the primary (GTVp) and nodal (GTVn) regions for head and neck cancer. 
 ![flow_chart](flowchart.png)
+
+
+The shared model weights are public available at : 
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-ffcc00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/JintaoRen/GradientSegHNTS)
+
+
 ## Task 2: Mid-RT Segmentation
 For Task 2, we tackled the challenge of mid-RT segmentation. Here are our key contributions:
 
